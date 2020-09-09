@@ -1,0 +1,1 @@
+took from - https://html5book.ru/css3-gradient/
